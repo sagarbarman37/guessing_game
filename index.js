@@ -29,7 +29,7 @@ function game() {
       }
     }
   } else {
-    alert("Enter between 1 to 5");
+    alert("Enter between 1 to 10");
     input.value = "";
   }
 
